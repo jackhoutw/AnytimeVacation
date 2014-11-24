@@ -1,0 +1,12 @@
+{
+    "id": "anytimevacation",
+    "name": "AnytimeVacation",
+    "version": "1.0.2",
+    "author": "Darkly",
+    "url": "http://forum.greenheartgames.com/t/rel-wip-anytimevacation-1-0-2/10441",
+    "description": "Send your employees on vacation whenever you want to, as the original mod by Darkly has been uploaded to the workshop with permission!",
+    "main": "./anytimevacation.js",
+    "dependencies": {
+        "gdt-modAPI": "0.1.x"
+    }
+}
